@@ -1,0 +1,83 @@
+frase,intencion
+qué hora es,hora
+dime la hora,hora
+cuál es la fecha de hoy,fecha
+qué día es hoy,fecha
+busca sobre inteligencia artificial en wikipedia,wikipedia
+investiga acerca de los agujeros negros wikipedia,wikipedia
+quiero mandar un email a juan@example.com con asunto reunión y cuerpo hola juan,correo
+envía un correo electrónico a maria@example.com sobre el proyecto,correo
+gracias,agradecimiento
+muchas gracias,agradecimiento
+abre google.com,abrir_web
+ir a youtube.com,abrir_web
+traduce hola mundo al francés,traducir
+cómo se dice gracias en alemán,traducir
+busca recetas de pastel de chocolate en internet,buscar_google
+navega por las últimas noticias,buscar_google
+pon despacito en youtube,buscar_youtube
+reproduce mi lista de reproducción favorita,buscar_youtube
+cierra la sesión,cerrar_sesion
+apaga el equipo,apagar
+reinicia el ordenador,reiniciar
+crea una carpeta llamada fotos en el escritorio,crear_carpeta
+haz un directorio llamado trabajo en documentos,crear_carpeta
+crea un archivo word llamado informe en descargas,crear_archivo
+genera un documento de texto llamado notas en música,crear_archivo
+abre la carpeta de imágenes,abrir_carpeta
+muestra la carpeta de vídeos,abrir_carpeta
+toma un pantallazo,captura_pantalla
+haz un screenshot,captura_pantalla
+cómo está el sistema,estado_sistema
+estado del cpu y ram,estado_sistema
+cuéntame un chiste corto,chiste
+dame un chiste gracioso,chiste
+cómo está el clima en bogotá,clima
+pronóstico del tiempo en medellín,clima
+dónde estoy,ubicacion
+cuál es mi localización actual,ubicacion
+dame las noticias de colombia,noticias
+infórmame sobre las últimas novedades,noticias
+envía un whatsapp a +57310xxxxxxx que diga hola,whatsapp
+manda un mensaje por whatsapp a pepito con el texto cómo estás,whatsapp
+busca imágenes de gatos,buscar_imagen
+ver fotos de paisajes,buscar_imagen
+cuánta batería queda,bateria
+porcentaje de batería,bateria
+sonido de perro,sonido
+cómo suena un gato,sonido
+crea un recordatorio para mañana a las 9 am reunión con el equipo,recordatorio_crear
+recuérdame comprar leche el sábado,recordatorio_crear
+lista mis recordatorios,recordatorio_listar
+qué tengo pendiente,recordatorio_listar
+borra el recordatorio con ID 3,recordatorio_borrar
+elimina el recordatorio número 1,recordatorio_borrar
+dame un dato curioso,dato_curioso
+cuéntame algo interesante,dato_curioso
+haz un truco de magia,truco_magia
+sorpréndeme con un truco,truco_magia
+pronóstico del tiempo,clima
+genial,ninguna
+ok,ninguna
+vale,ninguna
+sí,ninguna
+aja,ninguna
+no sé,ninguna
+entendido,ninguna
+claro,ninguna
+mmm,ninguna
+eh,ninguna
+podrías ayudarme a buscar en google qué es,buscar_google
+recordatorio,recordatorio_crear
+google,buscar_en_google
+fecha,fecha
+wikipedia,
+wikipedia,wikipedia
+correo,correo
+puedes abrir la página web de google.com,abrir_web
+puedes abrir la página web de google.com,
+puedes abrir la página de google.com,abrir
+abrir página web de google,abrir_sitio_web
+traducir,traducir
+opciones buscar en google,buscar_google
+cerrar sesión,cerrar_sesión
